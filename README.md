@@ -3,7 +3,7 @@ Implementation of an application with the latest technology in Android developme
 
 ![](https://github.com/EstakiDev/NikeStore/blob/main/NikeS---.gif)
 
-The technologies used in the development of this application:
+**The technologies used in the development of this application:**
 
 * Kotlin
 * MVVM architecture
@@ -15,3 +15,4 @@ The technologies used in the development of this application:
 * Material design
 * Eventbus
 * Fresco
+* Repository DesignPattern
