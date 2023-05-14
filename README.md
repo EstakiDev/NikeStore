@@ -1,7 +1,7 @@
 # NikeStore
 Implementation of an application with the latest technology in Android development, similar to the Nike store.
 
-FOR DOWNLOAD APPLICATION CLICK ON NikeStoreApp-release--.apk IN ABOVE LIST.
+FOR DOWNLOAD APPLICATION CLICK ON "NikeStoreApp-release--.apk" IN ABOVE LIST.
 
 Preview of this Application: waiting...
 
